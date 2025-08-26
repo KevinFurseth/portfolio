@@ -21,7 +21,7 @@ Here I will share lab assignments, small tools, and security-related projects I 
 
 - **[Flytify – Case Study](https://github.com/KevinFurseth/flytify-case-study)**  
   AI-powered travel planner that helps users find flights and hotels using natural language search.  
-  Developed together with my partner. This case study highlights my role in backend development, API integration, and project management.  
+  My work included backend development, API integration, and project management.  
 
   **Tech stack:** Node.js · Express · React · TailwindCSS · API integration  
 
