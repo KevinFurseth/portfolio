@@ -8,11 +8,11 @@ This portfolio documents my progress throughout my studies, projects I build alo
 ## 🎓 Certifications & Badges
 - ✅ **ITF Module 1 (Noroff)** – 25.08.2025  
   First module completed in IT Fundamentals.  
-  ![Badge ITF Module 1](badge-itf1.png)
+  ![ITF Module 1](https://img.shields.io/badge/ITF%20Module%201-Completed-brightgreen?style=flat-square)
 
 - ✅ **HSE course for safety representatives, leaders, and AMU members (40 hours)** – 25.08.2025  
   Focus on the Working Environment Act, risk assessment, reporting, conflict management, ergonomics, and psychosocial work environment.  
-  📄 [View certificate](HMS-sertifikat.pdf)
+  ![HSE Course](https://img.shields.io/badge/HSE%20Course-Completed-brightgreen?style=flat-square)  
 
 ---
 
@@ -38,4 +38,4 @@ Here I will share lab assignments, small tools, and security-related projects I 
 
 ## 📫 Contact
 - [LinkedIn](https://www.linkedin.com/) (coming soon)  
-- [GitHub](https://github.com/kevinfurseth)  
+- [GitHub](https://github.com/KevinFurseth)  
