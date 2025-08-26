@@ -1,37 +1,35 @@
-# portfolio
-Kevin Furseth – IT &amp; Security Portfolio
-# 👋 Hei, jeg heter Kevin Furseth  
+# 👋 Hi, I'm Kevin Furseth  
 
-Jeg er student ved **Noroff – Network & IT Security (2025–2027)**.  
-Denne porteføljen viser progresjonen min gjennom studiet, prosjektene jeg bygger underveis, samt kurs og sertifiseringer jeg har tatt.  
+I am a student at **Noroff – Network & IT Security (2025–2027)**.  
+This portfolio documents my progress throughout my studies, projects I build along the way, and certifications I complete.  
 
 ---
 
-## 🎓 Sertifiseringer & Badges
+## 🎓 Certifications & Badges
 - ✅ **ITF Module 1 (Noroff)** – 25.08.2025  
-  Første modul fullført innen IT Fundamentals.  
+  First module completed in IT Fundamentals.  
   ![Badge ITF Module 1](badge-itf1.png)
 
-- ✅ **HMS-kurs for verneombud, ledere og AMU-medlemmer (40 timer)** – 25.08.2025  
-  Fokus på arbeidsmiljøloven, risikovurdering, varsling, konflikthåndtering, ergonomi og psykososialt arbeidsmiljø.  
-  📄 [Se diplom her](HMS-sertifikat.pdf)
+- ✅ **HSE course for safety representatives, leaders, and AMU members (40 hours)** – 25.08.2025  
+  Focus on the Working Environment Act, risk assessment, reporting, conflict management, ergonomics, and psychosocial work environment.  
+  📄 [View certificate](HMS-sertifikat.pdf)
 
 ---
 
-## 🛠️ Prosjekter
-Her legger jeg ut lab-oppgaver, små verktøy og prosjekter jeg bygger innenfor IT-sikkerhet:  
+## 🛠️ Projects
+Here I will share lab assignments, small tools, and security-related projects I develop:  
 
-- **Kommer snart!**
-
----
-
-## 📚 Hva jeg lærer nå
-- Nettverk og IT-sikkerhet  
-- Virtualisering og skyteknologi  
-- Grunnleggende programmering og automatisering  
+- **Coming soon!**
 
 ---
 
-## 📫 Kontakt
-- [LinkedIn](https://www.linkedin.com/) (kommer snart)  
+## 📚 Currently learning
+- Networking and IT Security  
+- Virtualization and cloud technology  
+- Basic programming and automation  
+
+---
+
+## 📫 Contact
+- [LinkedIn](https://www.linkedin.com/) (coming soon)  
 - [GitHub](https://github.com/kevinfurseth)  
