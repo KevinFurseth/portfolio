@@ -31,7 +31,9 @@ Here I will share lab assignments, small tools, and security-related projects I 
 
 ## 🔧 Latest work on Flytify
 <!-- FLYTIFY-ACTIVITY:START -->
-Loading recent activity...
+### KevinFurseth/Flytify-case-study
+**Commits:**
+- README.md ([49d6626](https://github.com/KevinFurseth/Flytify-case-study/commit/49d6626712c1c73b406bd9555806777c0f07c8b9)) — 8/26/2025
 <!-- FLYTIFY-ACTIVITY:END -->
 
 ---
