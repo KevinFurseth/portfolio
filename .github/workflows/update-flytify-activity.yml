@@ -1,0 +1,89 @@
+name: Update Flytify activity in README
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"   # every 6 hours
+  workflow_dispatch:        # allow manual run
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Build activity block
+        id: build
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const owner = "KevinFurseth";
+            const targets = [
+              { owner: "Flytify", repo: "Flytify" },
+              { owner, repo: "Flytify" },               // your fork if used
+              { owner, repo: "Flytify-case-study" }
+            ];
+
+            const since = new Date(Date.now() - 1000*60*60*24*14).toISOString(); // 14 days
+            const md = [];
+
+            for (const t of targets) {
+              // Recent commits (up to 5)
+              const commits = await github.rest.repos.listCommits({
+                owner: t.owner, repo: t.repo, per_page: 5, since
+              }).catch(() => ({ data: [] }));
+
+              // Recently updated open PRs (up to 5)
+              const prs = await github.rest.pulls.list({
+                owner: t.owner, repo: t.repo, state: "open", per_page: 5, sort: "updated", direction: "desc"
+              }).catch(() => ({ data: [] }));
+
+              if ((commits.data?.length ?? 0) === 0 && (prs.data?.length ?? 0) === 0) continue;
+
+              md.push(`### ${t.owner}/${t.repo}`);
+
+              if (commits.data.length) {
+                md.push(`**Commits:**`);
+                for (const c of commits.data) {
+                  const msg = (c.commit?.message || "").split("\n")[0].slice(0, 80);
+                  const sha = (c.sha || "").substring(0,7);
+                  const url = c.html_url || `https://github.com/${t.owner}/${t.repo}/commit/${c.sha}`;
+                  const date = new Date(c.commit.author.date).toLocaleDateString();
+                  md.push(`- ${msg} ([${sha}](${url})) — ${date}`);
+                }
+              }
+
+              if (prs.data.length) {
+                md.push(`**Open PRs (recently updated):**`);
+                for (const p of prs.data) {
+                  md.push(`- #${p.number} ${p.title} → \`${p.base.ref}\` — [link](${p.html_url})`);
+                }
+              }
+
+              md.push("");
+            }
+
+            core.setOutput("block", md.length ? md.join("\n") : "_No recent activity in the last two weeks._");
+
+      - name: Inject into README
+        run: |
+          START="<!-- FLYTIFY-ACTIVITY:START -->"
+          END="<!-- FLYTIFY-ACTIVITY:END -->"
+          BLOCK="${{ steps.build.outputs.block }}"
+          BLOCK_ESCAPED=$(printf "%s" "$BLOCK" | sed -e 's/[\/&]/\\&/g')
+          awk -v start="$START" -v end="$END" -v repl="$BLOCK_ESCAPED" '
+            BEGIN{inblock=0}
+            { if ($0 ~ start) {print; print repl; inblock=1; next}
+              if ($0 ~ end) {inblock=0}
+              if (!inblock) print
+            }' README.md > README.tmp
+          mv README.tmp README.md
+
+      - name: Commit changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "docs: update Flytify activity section"
+          file_pattern: README.md
