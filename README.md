@@ -9,14 +9,17 @@ This portfolio documents my progress throughout my studies, projects I build alo
 - [![Badge](https://img.shields.io/badge/ITF%20Module%201-Completed-brightgreen?style=flat-square)](https://lms.noroff.no/badges/badge.php?hash=bd89f4983ce3fef59395410528f79e4ceb9018d2)  
   **ITF Module 1 (Noroff)** – 25.08.2025  
   Covered **Introduction, Soft Skills, Hardware, and Software**.  
+  🔗 [Verified on Noroff](https://lms.noroff.no/badges/badge.php?hash=bd89f4983ce3fef59395410528f79e4ceb9018d2)  
 
 - [![Badge](https://img.shields.io/badge/ITF%20Module%202-Completed-brightgreen?style=flat-square)](https://lms.noroff.no/badges/badge.php?hash=00662c66a1fc027082dcaaadaceb80c74afd541d)  
   **ITF Module 2 (Noroff)** – 02.09.2025  
   Covered **Archives, Virtual Machines & Cloud, Internet & Browsers, Digital Transformation, and IT Architecture**.  
+  🔗 [Verified on Noroff](https://lms.noroff.no/badges/badge.php?hash=00662c66a1fc027082dcaaadaceb80c74afd541d)  
 
 - [![Badge](https://img.shields.io/badge/HSE%20Course-40%20hours-brightgreen?style=flat-square)](https://github.com/KevinFurseth/portfolio/blob/main/HMS-sertifikat.pdf)  
   **HSE course for safety representatives, leaders, and AMU members (40 hours)** – 25.08.2025  
   Focus on the Working Environment Act, risk assessment, reporting, conflict management, ergonomics, and psychosocial work environment.  
+  🔗 [Verified Certificate (PDF)](https://github.com/KevinFurseth/portfolio/blob/main/HMS-sertifikat.pdf)  
 
 ---
 
