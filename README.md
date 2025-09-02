@@ -6,17 +6,17 @@ This portfolio documents my progress throughout my studies, projects I build alo
 ---
 
 ## 🎓 Certifications & Badges
-- ✅ **ITF Module 1 (Noroff)** – 25.08.2025  
+- ![Badge](https://img.shields.io/badge/ITF%20Module%201-Completed-brightgreen?style=flat-square)  
+  **ITF Module 1 (Noroff)** – 25.08.2025  
   First module completed in IT Fundamentals.  
-  ![ITF Module 1](https://github.com/KevinFurseth/portfolio/blob/main/badge-itf1.png?raw=true)
 
-- ✅ **ITF Module 2 (Noroff)** – 02.09.2025  
+- ![Badge](https://img.shields.io/badge/ITF%20Module%202-Completed-brightgreen?style=flat-square)  
+  **ITF Module 2 (Noroff)** – 02.09.2025  
   Second module completed in IT Fundamentals.  
-  ![ITF Module 2](https://github.com/KevinFurseth/portfolio/blob/main/ITF_Module_2.png?raw=true)
 
-- ✅ **HSE course for safety representatives, leaders, and AMU members (40 hours)** – 25.08.2025  
+- ![Badge](https://img.shields.io/badge/HSE%20Course-40%20hours-brightgreen?style=flat-square)  
+  **HSE course for safety representatives, leaders, and AMU members (40 hours)** – 25.08.2025  
   Focus on the Working Environment Act, risk assessment, reporting, conflict management, ergonomics, and psychosocial work environment.  
-  ![HSE Certificate](https://github.com/KevinFurseth/portfolio/blob/main/HMS-sertifikat.pdf)
 
 ---
 
