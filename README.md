@@ -1,50 +1,44 @@
-# 👋 Hi, I'm Kevin Furseth
+# 👋 Hi, I'm Kevin Furseth  
 
 I am a student at **Noroff – Network & IT Security (2025–2027)**.  
-This portfolio documents my progress throughout my studies, projects I build along the way, and certifications I complete.
+This portfolio documents my progress throughout my studies, projects I build along the way, and certifications I complete.  
 
 ---
 
 ## 🎓 Certifications & Badges
 - ✅ **ITF Module 1 (Noroff)** – 25.08.2025  
   First module completed in IT Fundamentals.  
-  ![ITF Module 1](https://img.shields.io/badge/ITF%20Module%201-Completed-brightgreen?style=flat-square)
+  ![ITF Module 1](https://github.com/KevinFurseth/portfolio/blob/main/badge-itf1.png?raw=true)
+
+- ✅ **ITF Module 2 (Noroff)** – 02.09.2025  
+  Second module completed in IT Fundamentals.  
+  ![ITF Module 2](https://github.com/KevinFurseth/portfolio/blob/main/ITF_Module_2.png?raw=true)
 
 - ✅ **HSE course for safety representatives, leaders, and AMU members (40 hours)** – 25.08.2025  
   Focus on the Working Environment Act, risk assessment, reporting, conflict management, ergonomics, and psychosocial work environment.  
-  ![HSE Course](https://img.shields.io/badge/HSE%20Course-Completed-brightgreen?style=flat-square)
+  ![HSE Certificate](https://github.com/KevinFurseth/portfolio/blob/main/HMS-sertifikat.pdf)
 
 ---
 
-## 🛠️ Projects
-Here I will share lab assignments, small tools, and security-related projects I develop:
-
+## 🚀 Projects
 - **[Flytify – Case Study](https://github.com/KevinFurseth/flytify-case-study)**  
   AI-powered travel planner that helps users find flights and hotels using natural language search.  
-  This case study highlights my work in backend development, API integration, and project management.
+  This case study highlights my role in backend development, API integration, and project management.  
 
-  **Tech stack:** Node.js · Express · React · TailwindCSS · API integration
+  **Tech stack:** Node.js · Express · React · TailwindCSS · API integration  
 
 - **More coming soon!**
 
 ---
 
-## 🔧 Latest work on Flytify
-<!-- FLYTIFY-ACTIVITY:START -->
-### KevinFurseth/Flytify-case-study
-**Commits:**
-- README.md ([49d6626](https://github.com/KevinFurseth/Flytify-case-study/commit/49d6626712c1c73b406bd9555806777c0f07c8b9)) — 8/26/2025
-<!-- FLYTIFY-ACTIVITY:END -->
+## 📚 About Me
+- 🎓 Currently studying **Network & IT Security** at Noroff (2025–2027)  
+- 💻 Building a portfolio of **projects, certifications, and case studies**  
+- 🚀 Interested in **cybersecurity, cloud solutions, and IT infrastructure**  
+- 🎵 Outside of IT, I enjoy **music production and gaming**  
 
 ---
 
-## 📚 Currently learning
-- Networking and IT Security  
-- Virtualization and cloud technology  
-- Basic programming and automation
-
----
-
-## 📫 Contact
-- [LinkedIn](https://www.linkedin.com/) (coming soon)  
-- [GitHub](https://github.com/KevinFurseth)
+## 📫 Connect
+- GitHub: [KevinFurseth](https://github.com/KevinFurseth)  
+- Email: kevin2805hf@live.no  
