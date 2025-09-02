@@ -8,11 +8,11 @@ This portfolio documents my progress throughout my studies, projects I build alo
 ## 🎓 Certifications & Badges
 - ![Badge](https://img.shields.io/badge/ITF%20Module%201-Completed-brightgreen?style=flat-square)  
   **ITF Module 1 (Noroff)** – 25.08.2025  
-  First module completed in IT Fundamentals.  
+  Covered **Introduction, Soft Skills, Hardware, and Software**.  
 
 - ![Badge](https://img.shields.io/badge/ITF%20Module%202-Completed-brightgreen?style=flat-square)  
   **ITF Module 2 (Noroff)** – 02.09.2025  
-  Second module completed in IT Fundamentals.  
+  Covered **Archives, Virtual Machines & Cloud, Internet & Browsers, Digital Transformation, and IT Architecture**.  
 
 - ![Badge](https://img.shields.io/badge/HSE%20Course-40%20hours-brightgreen?style=flat-square)  
   **HSE course for safety representatives, leaders, and AMU members (40 hours)** – 25.08.2025  
