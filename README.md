@@ -16,6 +16,8 @@
 - **HSE Course – 40 hours** (2025)  
   Focus on Working Environment Act, risk assessment, reporting, conflict management,  
   ergonomics, and psychosocial work environment.  
+  <br>  
+  📑 **Proof:** [View Certificate (PDF)](HMS-sertifikat.pdf)  
 
 ---
 
