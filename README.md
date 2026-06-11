@@ -2,9 +2,9 @@
 
 Jeg bygger en portfolio i skjæringspunktet mellom **IT-sikkerhet, infrastruktur, AI og moderne webutvikling**. Målet mitt er å utvikle prosjekter som ikke bare fungerer teknisk, men som også viser struktur, produktforståelse og evne til å ta en løsning fra idé til en mer gjennomført leveranse.
 
-Jeg studerer **Network & IT Security ved Noroff (2025–2027)**, og jobber i tillegg mot **CCNA**, med forventet ferdigstillelse i **august 2026**.
+Jeg studerer **Network & IT Security ved Noroff (2025–2027)**, og jobber i tillegg mot **CCNA** — kurs 1 og 2 er fullført, og siste kurs starter i **august 2026**.
 
-Det største prosjektet mitt akkurat nå er **[enkletilbud.no](https://enkletilbud.no)** — en SaaS-tjeneste for digitale tilbud som er live og i pilot med reelle brukere.
+Det største prosjektet mitt akkurat nå er **[enkletilbud.no](https://enkletilbud.no)** — en SaaS-tjeneste for digitale tilbud som er live og åpen for pilotbrukere.
 
 ---
 
@@ -26,7 +26,7 @@ Jeg ønsker at porteføljen skal vise bredde, men også at jeg er opptatt av å 
 
 ### [enkletilbud.no](https://enkletilbud.no) — live og i pilot
 
-Et komplett tilbudsverktøy for håndverkere og småbedrifter. Det som startet som QuoteCraft er nå et produkt i drift, med reelle brukere i pilot.
+Et komplett tilbudsverktøy for håndverkere og småbedrifter. Det som startet som QuoteCraft er nå et produkt i drift, åpent for pilotbrukere.
 
 Prosjektet inkluderer blant annet:
 
@@ -39,7 +39,7 @@ Prosjektet inkluderer blant annet:
 
 Koden ligger i [KevinFurseth/enkletilbud.no](https://github.com/KevinFurseth/enkletilbud.no). Dette er prosjektet som best viser hvordan jeg liker å jobbe: produktnært, detaljorientert og med fokus på helhet — hele veien fra idé til drift.
 
-### [Signalbasert B2B-prospektering](https://github.com/phitte/core.toreonthespore.core) — under utvikling
+### Signalbasert B2B-prospektering — under utvikling
 
 Et system som overvåker åpne norske datakilder — Brønnøysundregistrene, NAV og Doffin/TED — og leverer daglige, kildeforankrede salgsmuligheter per kunde, kjørt som nattlige jobber.
 
