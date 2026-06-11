@@ -4,6 +4,8 @@ Jeg bygger en portfolio i skjæringspunktet mellom **IT-sikkerhet, infrastruktur
 
 Jeg studerer **Network & IT Security ved Noroff (2025–2027)**, og jobber i tillegg mot **CCNA**, med forventet ferdigstillelse i **august 2026**.
 
+Det største prosjektet mitt akkurat nå er **[enkletilbud.no](https://enkletilbud.no)** — en SaaS-tjeneste for digitale tilbud som er live og i pilot med reelle brukere.
+
 ---
 
 ## Om porteføljen
@@ -22,19 +24,28 @@ Jeg ønsker at porteføljen skal vise bredde, men også at jeg er opptatt av å 
 
 ## Utvalgte prosjekter
 
-### [QuoteCraft](https://github.com/KevinFurseth/quotecraft)
+### [enkletilbud.no](https://enkletilbud.no) — live og i pilot
 
-Et gjennomført B2B-verktøy for tilbudsgenerering bygget med fokus på arbeidsflyt, språk, presentasjon og AI-assistert innhold.
+Et komplett tilbudsverktøy for håndverkere og småbedrifter. Det som startet som QuoteCraft er nå et produkt i drift, med reelle brukere i pilot.
 
 Prosjektet inkluderer blant annet:
 
-- strukturert arbeidsområde for å bygge tilbud
-- dynamiske linjeposter med automatisk summering
-- live kundevendt forhåndsvisning
-- AI-generert tilbudstekst via server-side OpenAI-integrasjon
-- PDF-eksport, tilbudsoversikt, statushåndtering, språk- og valutastøtte
+- AI-assistert tilbudstekst via server-side OpenAI-integrasjon
+- kundegodkjenning på mobil — uten app, innlogging eller PDF-vedlegg
+- PDF-eksport, maler, kundearkiv, varsling og purring
+- sikkerhet i praksis: Supabase med row-level security, CSRF-vern, rate limiting og hashede engangslenker
+- GDPR: databehandleravtale, personvernerklæring og adskilt persondata
+- CI med GitHub Actions og 80+ automatiserte tester
 
-Dette er et av prosjektene som best viser hvordan jeg liker å jobbe: produktnært, detaljorientert og med fokus på helhet.
+Koden ligger i [KevinFurseth/enkletilbud.no](https://github.com/KevinFurseth/enkletilbud.no). Dette er prosjektet som best viser hvordan jeg liker å jobbe: produktnært, detaljorientert og med fokus på helhet — hele veien fra idé til drift.
+
+### [Signalbasert B2B-prospektering](https://github.com/phitte/core.toreonthespore.core) — under utvikling
+
+Et system som overvåker åpne norske datakilder — Brønnøysundregistrene, NAV og Doffin/TED — og leverer daglige, kildeforankrede salgsmuligheter per kunde, kjørt som nattlige jobber.
+
+- TypeScript-monorepo med delte pakker for datamodell, connectors, berikelse, matching og levering
+- LLM-basert berikelse og matching der alle påstander må ha kilde-URL
+- GDPR-bevisst arkitektur: firmadata og persondata i adskilte lag med egen tilgangsstyring
 
 ### [AINM](https://github.com/KevinFurseth/AINM)
 
@@ -108,11 +119,11 @@ Dette prosjektet viser hvordan jeg jobber i team og hvordan jeg bidrar i fullsta
 
 Akkurat nå er jeg spesielt opptatt av å utvikle meg videre innen:
 
+- drift og videreutvikling av enkletilbud.no gjennom piloten
 - CCNA og nettverksforståelse
 - systemadministrasjon og infrastrukturlabarbeid
-- IT-sikkerhet i praktiske miljøer
+- IT-sikkerhet i praktiske miljøer (sist: sikkerhetsrevisjon av egen kodebase med rate limiting, auth-herding og CI)
 - Python og AI-relatert problemløsning
-- moderne webutvikling med produkt- og brukerfokus
 
 Jeg liker best prosjekter som kombinerer teknisk læring med noe konkret og synlig.
 
