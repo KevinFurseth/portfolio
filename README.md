@@ -131,21 +131,9 @@ Jeg liker best prosjekter som kombinerer teknisk læring med noe konkret og synl
 
 ## Sertifiseringer og kurs
 
-### ITF Complete (Noroff, 2025)
+### Noroff-sertifiseringer (2025–2026)
 
-<a href="ITF_Complete.png">
-  <img src="ITF_Complete.png" alt="ITF Complete Badge" width="220" />
-</a>
-
-[Se badge](ITF_Complete.png)
-
-Dekker blant annet:
-
-- introduksjon til IT
-- grunnleggende nettverk
-- sikkerhetsfundamenter
-- planlegging, dokumentasjon og rapportering
-- research, kildebruk og arbeid med AI
+Sertifisert i alle fullførte emner: IT Foundations, Operating and File Systems, Network Infrastructure, Linux, Microsoft Server Technologies, Cloud Computing Foundations og Introduction to Information Security.
 
 ---
 
